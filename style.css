@@ -8,7 +8,7 @@ html, body {
     max-width: 100%;
     overflow-x: hidden;
     background-color: rgb(7, 240, 182);
-    font-family: 'Brush Script MT', cursive;
+    font-family: Georgia, serif;
 }
 
 .container {
@@ -29,4 +29,8 @@ a {
 
 a:hover{
     color: black;
+}
+
+.twitter {
+    text-align: center;
 }
